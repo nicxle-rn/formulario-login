@@ -1,5 +1,3 @@
-console.log("Hola mundo");
-
 const nameInput = document.getElementById("name");
 const edadInput = document.getElementById("edad");
 const emailInput = document.getElementById("email");
